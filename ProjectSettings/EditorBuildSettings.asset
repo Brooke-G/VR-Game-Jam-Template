@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/1 Start Scene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/Scenes/cabin scn1.unity
+    path: Assets/Scenes/CabinScene.unity
     guid: 8b42088fc2b99493c80bdfcca723df68
   - enabled: 0
     path: Assets/Scenes/2 Game Scene.unity
