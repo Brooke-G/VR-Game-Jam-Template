@@ -9299,7 +9299,7 @@ MonoBehaviour:
       m_Name: 
       m_Type: 0
       m_ExpectedControlType: 
-      m_Id: 
+      m_Id: 23338685-0a63-49b5-b940-d4e47a4c7c9a
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -10959,10 +10959,10 @@ MonoBehaviour:
   m_IsTrackedAction:
     m_UseReference: 0
     m_Action:
-      m_Name: 
+      m_Name: Is Tracked
       m_Type: 1
       m_ExpectedControlType: 
-      m_Id: 
+      m_Id: 52bbcafe-022d-40b1-bbb5-063baeb122e2
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -11062,10 +11062,10 @@ MonoBehaviour:
   m_UIScrollAction:
     m_UseReference: 0
     m_Action:
-      m_Name: 
+      m_Name: UI Scroll
       m_Type: 0
       m_ExpectedControlType: Vector2
-      m_Id: 
+      m_Id: 3c0433bd-ef75-4265-b26f-e22d09384454
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
